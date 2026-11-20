@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Farhan Ghafoor 👋</h1>
+  <h1>Hi there, I'm Muhammad Farhan 👋</h1>
   <h3>Final-Year BSCS Student | Full-Stack Web & Mobile Developer | ML & Cybersecurity Enthusiast</h3>
   <p>
     Building scalable web & cross-platform mobile applications, training machine learning models, and engineering security-focused systems.
