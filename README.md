@@ -1,13 +1,11 @@
-<!-- Top Wave Header -->
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Muhammad Farhan Header" />
-</div>
 
-<p align="center">
-  <code>Final-Year BSCS Student @ Pakistan</code>
-</p>
+# Muhammad Farhan
+### Full-Stack Web & Mobile Developer | Cybersecurity & ML Engineer
 
-<p align="center">
+`Final-Year BSCS Student • Pakistan`
+
+<p>
   <a href="https://www.linkedin.com/in/farhan-ghafoor-6a1363363" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,6 +16,8 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+</div>
 
 ---
 
