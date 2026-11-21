@@ -1,6 +1,6 @@
 <!-- Top Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b0764&height=210&section=header&text=Muhammad%20Farhan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%26%20Security%20Engineer%20%7C%20ML%20Builder&descSize=18&descAlignY=60&descColor=cbd5e1" width="100%" />
+  <img src="./header.svg" width="100%" alt="Muhammad Farhan Header" />
 </div>
 
 <p align="center">
